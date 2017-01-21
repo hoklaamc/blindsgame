@@ -1,0 +1,4178 @@
+fileFormatVersion: 2
+guid: 5d085f205d3c0104ea4fcec271d5fa7c
+timeCreated: 1485011793
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: goku_0
+    21300002: goku_1
+    21300004: goku_2
+    21300006: goku_3
+    21300008: goku_4
+    21300010: goku_5
+    21300012: goku_6
+    21300014: goku_7
+    21300016: goku_8
+    21300018: goku_9
+    21300020: goku_10
+    21300022: goku_11
+    21300024: goku_12
+    21300026: goku_13
+    21300028: goku_14
+    21300030: goku_15
+    21300032: goku_16
+    21300034: goku_17
+    21300036: goku_18
+    21300038: goku_19
+    21300040: goku_20
+    21300042: goku_21
+    21300044: goku_22
+    21300046: goku_23
+    21300048: goku_24
+    21300050: goku_25
+    21300052: goku_26
+    21300054: goku_27
+    21300056: goku_28
+    21300058: goku_29
+    21300060: goku_30
+    21300062: goku_31
+    21300064: goku_32
+    21300066: goku_33
+    21300068: goku_34
+    21300070: goku_35
+    21300072: goku_36
+    21300074: goku_37
+    21300076: goku_38
+    21300078: goku_39
+    21300080: goku_40
+    21300082: goku_41
+    21300084: goku_42
+    21300086: goku_43
+    21300088: goku_44
+    21300090: goku_45
+    21300092: goku_46
+    21300094: goku_47
+    21300096: goku_48
+    21300098: goku_49
+    21300100: goku_50
+    21300102: goku_51
+    21300104: goku_52
+    21300106: goku_53
+    21300108: goku_54
+    21300110: goku_55
+    21300112: goku_56
+    21300114: goku_57
+    21300116: goku_58
+    21300118: goku_59
+    21300120: goku_60
+    21300122: goku_61
+    21300124: goku_62
+    21300126: goku_63
+    21300128: goku_64
+    21300130: goku_65
+    21300132: goku_66
+    21300134: goku_67
+    21300136: goku_68
+    21300138: goku_69
+    21300140: goku_70
+    21300142: goku_71
+    21300144: goku_72
+    21300146: goku_73
+    21300148: goku_74
+    21300150: goku_75
+    21300152: goku_76
+    21300154: goku_77
+    21300156: goku_78
+    21300158: goku_79
+    21300160: goku_80
+    21300162: goku_81
+    21300164: goku_82
+    21300166: goku_83
+    21300168: goku_84
+    21300170: goku_85
+    21300172: goku_86
+    21300174: goku_87
+    21300176: goku_88
+    21300178: goku_89
+    21300180: goku_90
+    21300182: goku_91
+    21300184: goku_92
+    21300186: goku_93
+    21300188: goku_94
+    21300190: goku_95
+    21300192: goku_96
+    21300194: goku_97
+    21300196: goku_98
+    21300198: goku_99
+    21300200: goku_100
+    21300202: goku_101
+    21300204: goku_102
+    21300206: goku_103
+    21300208: goku_104
+    21300210: goku_105
+    21300212: goku_106
+    21300214: goku_107
+    21300216: goku_108
+    21300218: goku_109
+    21300220: goku_110
+    21300222: goku_111
+    21300224: goku_112
+    21300226: goku_113
+    21300228: goku_114
+    21300230: goku_115
+    21300232: goku_116
+    21300234: goku_117
+    21300236: goku_118
+    21300238: goku_119
+    21300240: goku_120
+    21300242: goku_121
+    21300244: goku_122
+    21300246: goku_123
+    21300248: goku_124
+    21300250: goku_125
+    21300252: goku_126
+    21300254: goku_127
+    21300256: goku_128
+    21300258: goku_129
+    21300260: goku_130
+    21300262: goku_131
+    21300264: goku_132
+    21300266: goku_133
+    21300268: goku_134
+    21300270: goku_135
+    21300272: goku_136
+    21300274: goku_137
+    21300276: goku_138
+    21300278: goku_139
+    21300280: goku_140
+    21300282: goku_141
+    21300284: goku_142
+    21300286: goku_143
+    21300288: goku_144
+    21300290: goku_145
+    21300292: goku_146
+    21300294: goku_147
+    21300296: goku_148
+    21300298: goku_149
+    21300300: goku_150
+    21300302: goku_151
+    21300304: goku_152
+    21300306: goku_153
+    21300308: goku_154
+    21300310: goku_155
+    21300312: goku_156
+    21300314: goku_157
+    21300316: goku_158
+    21300318: goku_159
+    21300320: goku_160
+    21300322: goku_161
+    21300324: goku_162
+    21300326: goku_163
+    21300328: goku_164
+    21300330: goku_165
+    21300332: goku_166
+    21300334: goku_167
+    21300336: goku_168
+    21300338: goku_169
+    21300340: goku_170
+    21300342: goku_171
+    21300344: goku_172
+    21300346: goku_173
+    21300348: goku_174
+    21300350: goku_175
+    21300352: goku_176
+    21300354: goku_177
+    21300356: goku_178
+    21300358: goku_179
+    21300360: goku_180
+    21300362: goku_181
+    21300364: goku_182
+    21300366: goku_183
+    21300368: goku_184
+    21300370: goku_185
+    21300372: goku_186
+    21300374: goku_187
+    21300376: goku_188
+    21300378: goku_189
+    21300380: goku_190
+    21300382: goku_191
+    21300384: goku_192
+    21300386: goku_193
+    21300388: goku_194
+    21300390: goku_195
+    21300392: goku_196
+    21300394: goku_197
+    21300396: goku_198
+    21300398: goku_199
+    21300400: goku_200
+    21300402: goku_201
+    21300404: goku_202
+    21300406: goku_203
+    21300408: goku_204
+    21300410: goku_205
+    21300412: goku_206
+    21300414: goku_207
+    21300416: goku_208
+    21300418: goku_209
+    21300420: goku_210
+    21300422: goku_211
+    21300424: goku_212
+    21300426: goku_213
+    21300428: goku_214
+    21300430: goku_215
+    21300432: goku_216
+    21300434: goku_217
+    21300436: goku_218
+    21300438: goku_219
+    21300440: goku_220
+    21300442: goku_221
+    21300444: goku_222
+    21300446: goku_223
+    21300448: goku_224
+    21300450: goku_225
+    21300452: goku_226
+    21300454: goku_227
+    21300456: goku_228
+    21300458: goku_229
+    21300460: goku_230
+    21300462: goku_231
+    21300464: goku_232
+    21300466: goku_233
+    21300468: goku_234
+    21300470: goku_235
+    21300472: goku_236
+    21300474: goku_237
+    21300476: goku_238
+    21300478: goku_239
+    21300480: goku_240
+    21300482: goku_241
+    21300484: goku_242
+    21300486: goku_243
+    21300488: goku_244
+    21300490: goku_245
+    21300492: goku_246
+    21300494: goku_247
+    21300496: goku_248
+    21300498: goku_249
+    21300500: goku_250
+    21300502: goku_251
+    21300504: goku_252
+    21300506: goku_253
+    21300508: goku_254
+    21300510: goku_255
+    21300512: goku_256
+    21300514: goku_257
+    21300516: goku_258
+    21300518: goku_259
+    21300520: goku_260
+    21300522: goku_261
+    21300524: goku_262
+    21300526: goku_263
+    21300528: goku_264
+    21300530: goku_265
+    21300532: goku_266
+    21300534: goku_267
+    21300536: goku_268
+    21300538: goku_269
+    21300540: goku_270
+    21300542: goku_271
+    21300544: goku_272
+    21300546: goku_273
+    21300548: goku_274
+    21300550: goku_275
+    21300552: goku_276
+    21300554: goku_277
+    21300556: goku_278
+    21300558: goku_279
+    21300560: goku_280
+    21300562: goku_281
+    21300564: goku_282
+    21300566: goku_283
+    21300568: goku_284
+    21300570: goku_285
+    21300572: goku_286
+    21300574: goku_287
+    21300576: goku_288
+    21300578: goku_289
+    21300580: goku_290
+    21300582: goku_291
+    21300584: goku_292
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goku_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7056
+        width: 98
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 7056
+        width: 95
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 7056
+        width: 96
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 7056
+        width: 98
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_4
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 7056
+        width: 98
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_5
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 7056
+        width: 94
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_6
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 7056
+        width: 98
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_7
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 7056
+        width: 98
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_8
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 7056
+        width: 95
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_9
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 7056
+        width: 86
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6923
+        width: 98
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 6923
+        width: 105
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 6923
+        width: 98
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 6923
+        width: 102
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6783
+        width: 84
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_15
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 6783
+        width: 95
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 6783
+        width: 104
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_17
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 6783
+        width: 94
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_18
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 6783
+        width: 85
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_19
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 6783
+        width: 94
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_20
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 6783
+        width: 102
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_21
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 6783
+        width: 95
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6607
+        width: 98
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_23
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 6607
+        width: 140
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_24
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 6607
+        width: 106
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_25
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 6607
+        width: 98
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_26
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 6607
+        width: 99
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_27
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 6607
+        width: 106
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_28
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 6607
+        width: 98
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_29
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 6607
+        width: 90
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_30
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 6607
+        width: 99
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_31
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 6607
+        width: 99
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_32
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 6607
+        width: 101
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6435
+        width: 101
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_34
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 6435
+        width: 88
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 6435
+        width: 154
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_36
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 6435
+        width: 90
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_37
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 6435
+        width: 70
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_38
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 6435
+        width: 102
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_39
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 6435
+        width: 87
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_40
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 6435
+        width: 77
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_41
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 6435
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_42
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 6435
+        width: 115
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_43
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 6435
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_44
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 6435
+        width: 109
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_45
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 6435
+        width: 105
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_46
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 6435
+        width: 84
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6267
+        width: 80
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_48
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 6267
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_49
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 6267
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_50
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 6267
+        width: 75
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6133
+        width: 95
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_52
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 6133
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_53
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 6133
+        width: 94
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_54
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 6133
+        width: 91
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_55
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 6133
+        width: 88
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_56
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 6133
+        width: 87
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_57
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6010
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_58
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 6010
+        width: 140
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_59
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 6010
+        width: 105
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_60
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 6010
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_61
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5883
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_62
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 5882
+        width: 112
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_63
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 5881
+        width: 161
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_64
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 5882
+        width: 112
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_65
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 5883
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_66
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5723
+        width: 105
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_67
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 5726
+        width: 169
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_68
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 5724
+        width: 81
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_69
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5561
+        width: 77
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_70
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 5561
+        width: 77
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_71
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 5561
+        width: 77
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_72
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 5561
+        width: 77
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_73
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 5562
+        width: 77
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_74
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 5561
+        width: 77
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_75
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5403
+        width: 81
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_76
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 5403
+        width: 77
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_77
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 5403
+        width: 77
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_78
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 5403
+        width: 77
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_79
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 5403
+        width: 81
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_80
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 5403
+        width: 81
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_81
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 5403
+        width: 81
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_82
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 5403
+        width: 81
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_83
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 5403
+        width: 81
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_84
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 5403
+        width: 77
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_85
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 5403
+        width: 81
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_86
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 5403
+        width: 77
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_87
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 5401
+        width: 83
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_88
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 5403
+        width: 70
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_89
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5252
+        width: 81
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_90
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 5252
+        width: 77
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_91
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 5252
+        width: 81
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_92
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 5252
+        width: 81
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_93
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 5252
+        width: 81
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_94
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 5252
+        width: 77
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_95
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5094
+        width: 81
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_96
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 5094
+        width: 81
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_97
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 5094
+        width: 165
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_98
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 5094
+        width: 80
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_99
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 5094
+        width: 81
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_100
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4937
+        width: 77
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_101
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 4937
+        width: 81
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_102
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 4937
+        width: 77
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_103
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 4937
+        width: 77
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_104
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 4937
+        width: 77
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_105
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 4937
+        width: 78
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_106
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4782
+        width: 84
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_107
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4782
+        width: 84
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_108
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 4782
+        width: 77
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_109
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4628
+        width: 84
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_110
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4628
+        width: 119
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_111
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 4628
+        width: 73
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_112
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4487
+        width: 84
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_113
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 4487
+        width: 161
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4487
+        width: 93
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_115
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4329
+        width: 84
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_116
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 4329
+        width: 109
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 4329
+        width: 88
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_118
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4157
+        width: 84
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_119
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4157
+        width: 87
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_120
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 4158
+        width: 87
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_121
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 4018
+        width: 84
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_122
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 4018
+        width: 87
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_123
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 4017
+        width: 109
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_124
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 4017
+        width: 84
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_125
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 4020
+        width: 109
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_126
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 4018
+        width: 95
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_127
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3852
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_128
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 3852
+        width: 133
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_129
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3852
+        width: 90
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_130
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 3852
+        width: 81
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_131
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 3852
+        width: 77
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_132
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 3852
+        width: 71
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_133
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 3852
+        width: 95
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_134
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 3852
+        width: 88
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_135
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 3852
+        width: 81
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_136
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 3852
+        width: 129
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_137
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 3852
+        width: 95
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_138
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 3852
+        width: 78
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_139
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3687
+        width: 75
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_140
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3687
+        width: 137
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_141
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 3687
+        width: 105
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_142
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 3687
+        width: 80
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_143
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 3687
+        width: 88
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_144
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3687
+        width: 116
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_145
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 3687
+        width: 102
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_146
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 3687
+        width: 94
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_147
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3526
+        width: 137
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_148
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3526
+        width: 102
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_149
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 3526
+        width: 140
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_150
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 3526
+        width: 131
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_151
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 3526
+        width: 79
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_152
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 3526
+        width: 78
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_153
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3396
+        width: 96
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_154
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 3396
+        width: 94
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_155
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 3396
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_156
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3396
+        width: 105
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_157
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 3396
+        width: 154
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_158
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 3396
+        width: 140
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_159
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 3396
+        width: 119
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_160
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 3347
+        width: 105
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_161
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 3343
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_162
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 3343
+        width: 77
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_163
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3259
+        width: 81
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_164
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 3259
+        width: 81
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_165
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 3259
+        width: 77
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_166
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 3259
+        width: 74
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_167
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 3259
+        width: 157
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_168
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 3259
+        width: 144
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_169
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 3259
+        width: 119
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_170
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3108
+        width: 91
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_171
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3108
+        width: 91
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_172
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 3108
+        width: 90
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_173
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 3101
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_174
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3108
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_175
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 3094
+        width: 126
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_176
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 3013
+        width: 119
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_177
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 3013
+        width: 112
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_178
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 3013
+        width: 123
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_179
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 3013
+        width: 112
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_180
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2944
+        width: 77
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_181
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2945
+        width: 77
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_182
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2945
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_183
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2932
+        width: 115
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_184
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 2945
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_185
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2925
+        width: 127
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_186
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2775
+        width: 138
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_187
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2775
+        width: 97
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_188
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2775
+        width: 97
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_189
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2775
+        width: 133
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_190
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 2775
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_191
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 2775
+        width: 102
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_192
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2631
+        width: 91
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_193
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2631
+        width: 105
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_194
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2631
+        width: 88
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_195
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2631
+        width: 95
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_196
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2631
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_197
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2631
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_198
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2466
+        width: 91
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_199
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2466
+        width: 109
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_200
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2466
+        width: 84
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_201
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 2466
+        width: 84
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_202
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2466
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_203
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2466
+        width: 80
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_204
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 2466
+        width: 91
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_205
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 2466
+        width: 98
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_206
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2322
+        width: 133
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_207
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2322
+        width: 165
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_208
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2322
+        width: 123
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_209
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2322
+        width: 163
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_210
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 2322
+        width: 165
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_211
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 2322
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_212
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 2322
+        width: 114
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_213
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 2322
+        width: 87
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_214
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2185
+        width: 133
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_215
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2185
+        width: 163
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_216
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2185
+        width: 123
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_217
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2185
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_218
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2185
+        width: 79
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_219
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2048
+        width: 123
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_220
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2048
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_221
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 2048
+        width: 124
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_222
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 2048
+        width: 84
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_223
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1880
+        width: 84
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_224
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1880
+        width: 77
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_225
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1880
+        width: 81
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_226
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1880
+        width: 80
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_227
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1715
+        width: 84
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_228
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1715
+        width: 77
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_229
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1715
+        width: 77
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_230
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1715
+        width: 74
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_231
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1532
+        width: 94
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_232
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1532
+        width: 87
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_233
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1532
+        width: 81
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_234
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1532
+        width: 87
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_235
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1532
+        width: 88
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_236
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1532
+        width: 84
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_237
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1532
+        width: 84
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_238
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1321
+        width: 94
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_239
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1321
+        width: 112
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_240
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1321
+        width: 112
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_241
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1321
+        width: 110
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_242
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1321
+        width: 113
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_243
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1321
+        width: 109
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_244
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1321
+        width: 112
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_245
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1321
+        width: 138
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_246
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1321
+        width: 139
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_247
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1311
+        width: 160
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_248
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1290
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_249
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1321
+        width: 108
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_250
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 1321
+        width: 109
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_251
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1276
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_252
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1227
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_253
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1223
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_254
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1216
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_255
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1037
+        width: 94
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_256
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1037
+        width: 91
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_257
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1037
+        width: 95
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_258
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1037
+        width: 91
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_259
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1037
+        width: 92
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_260
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1037
+        width: 91
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_261
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1037
+        width: 123
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_262
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1037
+        width: 127
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_263
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1037
+        width: 133
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_264
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1037
+        width: 133
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_265
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 834
+        width: 147
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_266
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 834
+        width: 151
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_267
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 830
+        width: 117
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_268
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 830
+        width: 120
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_269
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 830
+        width: 119
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_270
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 823
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_271
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 830
+        width: 116
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_272
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 830
+        width: 115
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_273
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 830
+        width: 116
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_274
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 830
+        width: 115
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_275
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 809
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_276
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 799
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_277
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 753
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_278
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 700
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_279
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 700
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_280
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 732
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_281
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 521
+        width: 84
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_282
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 521
+        width: 85
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_283
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 521
+        width: 84
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_284
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 521
+        width: 88
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_285
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 521
+        width: 84
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_286
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 367
+        width: 98
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_287
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 369
+        width: 119
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_288
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 369
+        width: 119
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_289
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 223
+        width: 98
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_290
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 224
+        width: 119
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_291
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 224
+        width: 119
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: goku_292
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 369
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
