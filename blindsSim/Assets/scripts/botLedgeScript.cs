@@ -23,6 +23,9 @@ public class botLedgeScript : MonoBehaviour {
 	public GameObject blinds17;
 	public GameObject blinds18;
 
+	public GameObject leftBar;
+	public GameObject rightBar;
+
 	// Use this for initialization
 	void Start () {
 		
@@ -30,7 +33,7 @@ public class botLedgeScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetButtonDown ("Fire1")) 
+		if (Input.GetKeyDown (KeyCode.LeftControl)) 
 		{
 			blinds1.GetComponent<Rigidbody2D> ().gravityScale = -1;
 			blinds2.GetComponent<Rigidbody2D> ().gravityScale = -1;
@@ -51,7 +54,7 @@ public class botLedgeScript : MonoBehaviour {
 			blinds17.GetComponent<Rigidbody2D> ().gravityScale = -1;
 			blinds18.GetComponent<Rigidbody2D> ().gravityScale = -1;
 		} 
-		else if (Input.GetButtonUp("Fire1"))
+		else if (Input.GetKeyUp(KeyCode.LeftControl))
 		{
 			blinds1.GetComponent<Rigidbody2D> ().gravityScale = 1;	
 			blinds2.GetComponent<Rigidbody2D> ().gravityScale = 1;
@@ -72,5 +75,22 @@ public class botLedgeScript : MonoBehaviour {
 			blinds17.GetComponent<Rigidbody2D> ().gravityScale = 1;
 			blinds18.GetComponent<Rigidbody2D> ().gravityScale = 1;
 		}		
+
+		if (Input.GetKeyDown (KeyCode.LeftArrow)) {
+			leftBar.GetComponent<Rigidbody2D> ().gravityScale = -1;
+		} 
+		else if (Input.GetKeyUp (KeyCode.LeftArrow)) {
+			leftBar.GetComponent<Rigidbody2D> ().gravityScale = 1;
+		}
+
+		if (Input.GetKeyDown (KeyCode.RightArrow)) {
+			rightBar.GetComponent<Rigidbody2D> ().gravityScale = -1;
+		} 
+		else if (Input.GetKeyUp (KeyCode.RightArrow)) {
+			rightBar.GetComponent<Rigidbody2D> ().gravityScale = 1;
+		}
+	}
+
+	void FixedUpdate(){
 	}
 }
