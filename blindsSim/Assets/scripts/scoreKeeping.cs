@@ -6,6 +6,8 @@ public class scoreKeeping : MonoBehaviour
 {
     private int score = 0;
 
+    public countDownTimer time;
+
     public GameObject star;
     public GameObject star1;
     public GameObject star2;
@@ -27,7 +29,7 @@ public class scoreKeeping : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if ((lastBind.GetComponent<Rigidbody2D>().transform.position.y >= 1.7) && (reset == true))
+        if ((lastBind.GetComponent<Rigidbody2D>().transform.position.y >= 1.7) && (reset == true) && (time.getTime() > 0))
         {
             score++;
             reset = false;
