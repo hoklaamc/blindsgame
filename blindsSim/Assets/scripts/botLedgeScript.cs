@@ -14,6 +14,14 @@ public class botLedgeScript : MonoBehaviour {
 	public GameObject blinds8;
 	public GameObject blinds9;
 	public GameObject blinds10;
+	public GameObject blinds11;
+	public GameObject blinds12;
+	public GameObject blinds13;
+	public GameObject blinds14;
+	public GameObject blinds15;
+	public GameObject blinds16;
+	public GameObject blinds17;
+	public GameObject blinds18;
 
 	// Use this for initialization
 	void Start () {
@@ -34,6 +42,14 @@ public class botLedgeScript : MonoBehaviour {
 			blinds8.GetComponent<Rigidbody2D> ().gravityScale = -1;
 			blinds9.GetComponent<Rigidbody2D> ().gravityScale = -1;
 			blinds10.GetComponent<Rigidbody2D> ().gravityScale = -1;
+			blinds11.GetComponent<Rigidbody2D> ().gravityScale = -1;
+			blinds12.GetComponent<Rigidbody2D> ().gravityScale = -1;
+			blinds13.GetComponent<Rigidbody2D> ().gravityScale = -1;
+			blinds14.GetComponent<Rigidbody2D> ().gravityScale = -1;
+			blinds15.GetComponent<Rigidbody2D> ().gravityScale = -1;
+			blinds16.GetComponent<Rigidbody2D> ().gravityScale = -1;
+			blinds17.GetComponent<Rigidbody2D> ().gravityScale = -1;
+			blinds18.GetComponent<Rigidbody2D> ().gravityScale = -1;
 		} 
 		else if (Input.GetButtonUp("Fire1"))
 		{
@@ -47,6 +63,14 @@ public class botLedgeScript : MonoBehaviour {
 			blinds8.GetComponent<Rigidbody2D> ().gravityScale = 1;
 			blinds9.GetComponent<Rigidbody2D> ().gravityScale = 1;
 			blinds10.GetComponent<Rigidbody2D> ().gravityScale = 1;
+			blinds11.GetComponent<Rigidbody2D> ().gravityScale = 1;
+			blinds12.GetComponent<Rigidbody2D> ().gravityScale = 1;
+			blinds13.GetComponent<Rigidbody2D> ().gravityScale = 1;
+			blinds14.GetComponent<Rigidbody2D> ().gravityScale = 1;
+			blinds15.GetComponent<Rigidbody2D> ().gravityScale = 1;
+			blinds16.GetComponent<Rigidbody2D> ().gravityScale = 1;
+			blinds17.GetComponent<Rigidbody2D> ().gravityScale = 1;
+			blinds18.GetComponent<Rigidbody2D> ().gravityScale = 1;
 		}		
 	}
 }
