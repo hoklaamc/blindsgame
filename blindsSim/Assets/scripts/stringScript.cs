@@ -9,15 +9,17 @@ public class stringScript : MonoBehaviour {
 	public GameObject topLedge;
 	public GameObject leftBar;
 	public GameObject rightBar;
+	public GameObject bottomBlind;
 	List<GameObject> stringSet = new List<GameObject>();
 	float stringOffsetX;
 	float stringOffsetY;
 	float stringOffsetZ;
+	float prevBlindPositionY;
 	int startingLinks;
 
 	// Use this for initialization
 	void Start () {
-		startingLinks = 10;
+		startingLinks = 9;
 		stringOffsetX = topLedge.transform.position.x + 1.7f;
 		stringOffsetY = topLedge.transform.position.y - 0.35f;
 		stringOffsetZ = -5f;
@@ -41,8 +43,6 @@ public class stringScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		
-		float yVelocity;
-
 		/*
 		// Controls the string when the fire button is pressed.
 		if (Input.GetKey(KeyCode.LeftControl)) { 
@@ -70,24 +70,30 @@ public class stringScript : MonoBehaviour {
 			}
 		}
 		*/
+		
+		//float yVelocity;
+		float topPositionY = stringSet[stringSet.Count - 1].transform.position.y;
+		float blindPositionY = bottomBlind.GetComponent<Rigidbody2D>().transform.position.y;
+		float blindPositionYDiff = blindPositionY - prevBlindPositionY;
+		prevBlindPositionY = blindPositionY;
 
-		if (stringSet[stringSet.Count - 1].transform.position.y <= stringOffsetY - 0.55f) {
-			GameObject newLink = Instantiate(myLinkPrefab, new Vector3(stringOffsetX, stringOffsetY, stringOffsetZ),
+		if (topPositionY <= stringOffsetY - 0.55f) {
+			GameObject newLink = Instantiate(myLinkPrefab, new Vector3(stringOffsetX, topPositionY + 0.55f, stringOffsetZ),
 				new Quaternion(0, 0, 0, 0));
 			//stringSet[stringSet.Count - 1].GetComponentInParent<HingeJoint2D>().connectedBody =
 			//newLink.GetComponentInParent<Rigidbody2D>();
 			//stringSet[stringSet.Count - 1].transform.Translate(0, -0.04f, 0);
 			stringSet.Add(newLink);
 		}
-		else if (stringSet[stringSet.Count - 1].transform.position.y > stringOffsetY && stringSet.Count > 3) {
+		else if (topPositionY > stringOffsetY && stringSet.Count > 3) {
 			stringSet.Remove(stringSet[stringSet.Count - 1]);
 		}
 		
-		yVelocity = (leftBar.GetComponent<Rigidbody2D>().velocity.y + rightBar.GetComponent<Rigidbody2D>().velocity.y) / 2;
+		//yVelocity = (leftBar.GetComponent<Rigidbody2D>().velocity.y + rightBar.GetComponent<Rigidbody2D>().velocity.y) / 2;
 
-		print(yVelocity);
+		print(blindPositionYDiff);
 		foreach (GameObject go in stringSet) {
-			go.transform.Translate(0, -yVelocity / 100, 0);
+			go.transform.Translate(0, -blindPositionYDiff, 0);
 		}
 
 		/*
