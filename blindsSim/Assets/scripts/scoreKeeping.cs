@@ -6,10 +6,11 @@ public class scoreKeeping : MonoBehaviour
 {
     private int score = 0;
 
-    AudioSource audio;
+    new AudioSource audio;
 
     public countDownTimer time;
 
+    public GameObject plusOne;
     public GameObject star;
     public GameObject star1;
     public GameObject star2;
@@ -29,6 +30,7 @@ public class scoreKeeping : MonoBehaviour
         pos2 = star1.GetComponent<Rigidbody2D>().transform.position;
         pos3 = star2.GetComponent<Rigidbody2D>().transform.position;
         audio = GetComponent<AudioSource>();
+        plusOne.GetComponent<SpriteRenderer>().enabled = false;
     }
 
     // Update is called once per frame
@@ -39,10 +41,12 @@ public class scoreKeeping : MonoBehaviour
             score++;
             audio.Play();
             reset = false;
+            plusOne.GetComponent<SpriteRenderer>().enabled = true;
         }
         else if (lastBind.GetComponent<Rigidbody2D>().transform.position.y < 1.7)
         {
             reset = true;
+            plusOne.GetComponent<SpriteRenderer>().enabled = false;
         }
 		if (score % 10 == 0 && (score != 0))
         {
