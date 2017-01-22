@@ -6,6 +6,8 @@ public class scoreKeeping : MonoBehaviour
 {
     private int score = 0;
 
+    AudioSource audio;
+
     public countDownTimer time;
 
     public GameObject star;
@@ -26,6 +28,7 @@ public class scoreKeeping : MonoBehaviour
         pos1 = star.GetComponent<Rigidbody2D>().transform.position;
         pos2 = star1.GetComponent<Rigidbody2D>().transform.position;
         pos3 = star2.GetComponent<Rigidbody2D>().transform.position;
+        audio = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -34,6 +37,7 @@ public class scoreKeeping : MonoBehaviour
         if ((lastBind.GetComponent<Rigidbody2D>().transform.position.y >= 1.7) && (reset == true) && (time.getTime() > 0))
         {
             score++;
+            audio.Play();
             reset = false;
         }
         else if (lastBind.GetComponent<Rigidbody2D>().transform.position.y < 1.7)
