@@ -5,6 +5,7 @@ using UnityEngine;
 public class countDownTimer : MonoBehaviour {
 
     public float timeRemaining;
+	public GameObject menuCanvas;
 
 	// Use this for initialization
 	void Start () {
@@ -25,6 +26,7 @@ public class countDownTimer : MonoBehaviour {
             GUI.Label(new Rect(10, 10, 200, 100), "Time Remaining: " + (int)timeRemaining);
         } else {
             GUI.Label(new Rect(10, 10, 200, 100), "Time's Up");
+			menuCanvas.SetActive (true);
         }        
     }
 }
