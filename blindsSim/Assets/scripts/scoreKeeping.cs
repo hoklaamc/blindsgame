@@ -6,7 +6,7 @@ public class scoreKeeping : MonoBehaviour
 {
     private int score = 0;
 
-    new AudioSource audio;
+    private AudioSource alert_audio;
 
     public countDownTimer time;
 
@@ -23,14 +23,30 @@ public class scoreKeeping : MonoBehaviour
 
     public GameObject lastBind;
 
+//	public GameObject gameMusic;
+//	public GameObject winMusic;
+//	public GameObject loseMusic;
+//	private AudioSource music_audio;
+//	private AudioSource win_audio;
+//	private AudioSource lose_audio;
+//
+//	private bool winState;
+//	private bool playing;
+
     // Use this for initialization
     void Start()
     {
         pos1 = star.GetComponent<Rigidbody2D>().transform.position;
         pos2 = star1.GetComponent<Rigidbody2D>().transform.position;
         pos3 = star2.GetComponent<Rigidbody2D>().transform.position;
-        audio = GetComponent<AudioSource>();
+        alert_audio = GetComponent<AudioSource>();
         plusOne.GetComponent<SpriteRenderer>().enabled = false;
+
+//		winState = false;
+//		playing = true;
+//		music_audio = gameMusic.GetComponent<AudioSource> (); 
+//		win_audio = winMusic.GetComponent<AudioSource> ();
+//		lose_audio = loseMusic.GetComponent<AudioSource> ();
     }
 
     // Update is called once per frame
@@ -39,7 +55,7 @@ public class scoreKeeping : MonoBehaviour
         if ((lastBind.GetComponent<Rigidbody2D>().transform.position.y >= 1.7) && (reset == true) && (time.getTime() > 0))
         {
             score++;
-            audio.Play();
+            alert_audio.Play();
             reset = false;
             plusOne.GetComponent<SpriteRenderer>().enabled = true;
         }
@@ -53,15 +69,28 @@ public class scoreKeeping : MonoBehaviour
             star.GetComponent<Rigidbody2D>().velocity = new Vector3(20, 0, 0);
             star1.GetComponent<Rigidbody2D>().velocity = new Vector3(20, 0, 0);
             star2.GetComponent<Rigidbody2D>().velocity = new Vector3(20, 0, 0);
+//			winState = true;
         }
         else if (score % 10 == 9)
         {
             star.transform.position = pos1;
             star1.transform.position = pos2;
             star2.transform.position = pos3;
-
-
         }
+
+//		if (time.getTime () == 0 && playing == true) {
+//			Debug.Log ("time ended!");
+//			playing = false;
+//			if (winState == true && playing == false) {
+//				music_audio.Stop ();
+//				win_audio.Play ();
+//				lose_audio.Stop ();
+//			} else if (winState == true && playing == false) {
+//				music_audio.Stop ();
+//				win_audio.Stop ();
+//				lose_audio.Play ();
+//			}
+//		}
     }
 
     void OnGUI()
@@ -72,5 +101,7 @@ public class scoreKeeping : MonoBehaviour
 	public void resetScore()
 	{
 		score = 0;
+//		winState = false;
+//		playing = true;
 	}
 }
