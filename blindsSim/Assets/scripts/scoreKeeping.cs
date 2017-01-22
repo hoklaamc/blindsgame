@@ -44,7 +44,7 @@ public class scoreKeeping : MonoBehaviour
         {
             reset = true;
         }
-        if (score % 10 == 0)
+		if (score % 10 == 0 && (score != 0))
         {
             star.GetComponent<Rigidbody2D>().velocity = new Vector3(20, 0, 0);
             star1.GetComponent<Rigidbody2D>().velocity = new Vector3(20, 0, 0);
