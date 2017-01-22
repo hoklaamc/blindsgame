@@ -7,9 +7,11 @@ public class countDownTimer : MonoBehaviour {
     private float timeRemaining;
 	public GameObject menuCanvas;
 
+	public GUIStyle myStyle = new GUIStyle(); 
+
 	// Use this for initialization
 	void Start () {
-		timeRemaining = initial_time;
+		timeRemaining = 0;
 	}
 	
 	// Update is called once per frame
@@ -23,9 +25,9 @@ public class countDownTimer : MonoBehaviour {
 
     private void OnGUI() {
         if (timeRemaining > 0) {
-            GUI.Label(new Rect(10, 10, 200, 100), "Time Remaining: " + (int)timeRemaining);
+			GUI.Label(new Rect(10, 10, 200, 100), "Time Remaining: " + (int)timeRemaining, myStyle);
         } else {
-            GUI.Label(new Rect(10, 10, 200, 100), "Time's Up");
+			GUI.Label(new Rect(10, 10, 200, 100), "Time's Up", myStyle);
 			menuCanvas.SetActive (true);
         }        
     }
