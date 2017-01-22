@@ -1,28 +1,9 @@
 fileFormatVersion: 2
-guid: 9df761c31664b6741bdd659f3d81a92c
-timeCreated: 1485110046
+guid: 1d4fe224b5ca6fd4ba79ec16481c713e
+timeCreated: 1485106927
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: star_0
-    21300002: star_1
-    21300004: star_2
-    21300006: star_3
-    21300008: star_4
-    21300010: star_5
-    21300012: star_6
-    21300014: star_7
-    21300016: star_8
-    21300018: star_9
-    21300020: star_10
-    21300022: star_11
-    21300024: star_12
-    21300026: star_13
-    21300028: star_14
-    21300030: star_15
-    21300032: star_16
-    21300034: star_17
-    21300036: star_18
+  fileIDToRecycleName: {}
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -53,7 +34,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -77,43 +58,9 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
-  - buildTarget: Standalone
-    maxTextureSize: 2048
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: star_0
-      rect:
-        serializedVersion: 2
-        x: 60
-        y: 670
-        width: 55
-        height: 50
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: star_1
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 37
-        width: 611
-        height: 568
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
+    sprites: []
     outline: []
   spritePackingTag: 
   userData: 
