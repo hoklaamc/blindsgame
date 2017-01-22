@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class countDownTimer : MonoBehaviour {
-
-    public float timeRemaining;
+	public float initial_time;
+    private float timeRemaining;
 	public GameObject menuCanvas;
 
 	// Use this for initialization
 	void Start () {
-		
+		timeRemaining = initial_time;
 	}
 	
 	// Update is called once per frame
@@ -29,4 +29,8 @@ public class countDownTimer : MonoBehaviour {
 			menuCanvas.SetActive (true);
         }        
     }
+
+	public void resetTimer() {
+		timeRemaining = initial_time;
+	}
 }

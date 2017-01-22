@@ -53,8 +53,14 @@ public class scoreKeeping : MonoBehaviour
 
         }
     }
+
     void OnGUI()
     {
         GUI.Label(new Rect(40, 40, 200, 200), "Score: " + score);
     }
+
+	public void resetScore()
+	{
+		score = 0;
+	}
 }
