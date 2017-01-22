@@ -17,13 +17,13 @@ Platform assembly: C:\Repository\gdev\blindsgame\blindsSim\blindSimulator_Data\M
 Loading C:\Repository\gdev\blindsgame\blindsSim\blindSimulator_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: C:\Repository\gdev\blindsgame\blindsSim\blindSimulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
 Loading C:\Repository\gdev\blindsgame\blindsSim\blindSimulator_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.094 seconds
+- Completed reload, in  0.183 seconds
 Platform assembly: C:\Repository\gdev\blindsgame\blindsSim\blindSimulator_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Repository\gdev\blindsgame\blindsSim\blindSimulator_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 7.229765 ms
+UnloadTime: 4.856785 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 1cfc -> priority: 1 
+  Thread -> id: af0 -> priority: 1 

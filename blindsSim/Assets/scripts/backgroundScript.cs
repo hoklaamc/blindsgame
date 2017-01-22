@@ -5,12 +5,18 @@ using UnityEngine;
 public class backgroundScript : MonoBehaviour {
 
 	public GameObject background;
+	private SpriteRenderer rend;
+
+	void Start() {
+		rend = background.GetComponent<SpriteRenderer>();
+		rend.enabled = false;
+	}
 
 	public void hideBackground() {
-		background.SetActive (false);
+		rend.enabled = false;
 	}
 
 	public void showBackground() {
-		background.SetActive (true);
+		rend.enabled = true;
 	}
 }
