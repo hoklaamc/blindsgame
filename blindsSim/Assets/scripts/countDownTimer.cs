@@ -22,9 +22,9 @@ public class countDownTimer : MonoBehaviour {
 
     private void OnGUI() {
         if (timeRemaining > 0) {
-            GUI.Label(new Rect(100, 70, 200, 100), "Time Remaining: " + (int)timeRemaining);
+            GUI.Label(new Rect(10, 10, 200, 100), "Time Remaining: " + (int)timeRemaining);
         } else {
-            GUI.Label(new Rect(100, 70, 200, 100), "Time's Up");
+            GUI.Label(new Rect(10, 10, 200, 100), "Time's Up");
         }        
     }
 }

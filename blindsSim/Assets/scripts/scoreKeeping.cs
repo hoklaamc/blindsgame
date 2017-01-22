@@ -55,6 +55,6 @@ public class scoreKeeping : MonoBehaviour
     }
     void OnGUI()
     {
-        GUI.Label(new Rect(200, 100, 200, 200), "Score: " + score);
+        GUI.Label(new Rect(40, 40, 200, 200), "Score: " + score);
     }
 }
